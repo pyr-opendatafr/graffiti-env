@@ -1,5 +1,5 @@
 [![pulls](https://img.shields.io/docker/pulls/jdinsee/graffiti-poc)](https://hub.docker.com/r/jdinsee/graffiti-poc "Number of pulls from Docker Hub")
-![image](https://img.shields.io/docker/image-size/jdinsee/graffiti-poc/0.1.5)
+![image](https://img.shields.io/docker/image-size/jdinsee/graffiti-poc/0.1.7)
 [![dockerfile](https://img.shields.io/badge/dockerfile%20on-docker-blue.svg)](https://hub.docker.com/r/jdinsee/graffiti-poc "Dockerfile source repository")
 [![base](https://img.shields.io/badge/depends%20on-rocker/shiny-blue)](https://hub.docker.com/r/rocker/shiny "Docker base image")
 
