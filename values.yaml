@@ -1,7 +1,7 @@
 shiny:
   image:
     repository: jdinsee/graffiti-poc
-    tag: "0.1.7"
+    tag: "0.1.8"
   ingress:
     enabled: true
     hostname: graffiti.lab.sspcloud.fr
